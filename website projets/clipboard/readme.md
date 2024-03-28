@@ -1,26 +1,19 @@
-# Webpack & Tailwind Starter
+# Clipboard Website
 
-Build apps with Webpack and use Tailwind CSS
+Clipboard landing page from my Tailwind course and from [Frontend Mentor Challenge](https://www.frontendmentor.io/challenges/clipboard-landing-page-5cc9bccd6c4c91111378ecb9)
 
 ## Usage
 
-### Install dependencies
+Install dependencies
 
 ```
 npm Install
 ```
 
-### Build for production
+Run Tailwind CLI
 
 ```
-npm run build
+npm run watch
 ```
 
-### Run the development server (:3000)
-
-```
-npm run dev
-```
-
-### Gist File With Steps To Create This
-https://gist.github.com/bradtraversy/1c93938c1fe4f10d1e5b0532ae22e16a
+![Alt text](images/clipboard.png)
